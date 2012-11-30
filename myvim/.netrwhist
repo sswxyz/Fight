@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/ssw/git/node-login/node_modules'
+let g:netrw_dirhist_2='/home/ssw/git/webqomo/node_modules'
+let g:netrw_dirhist_3='/home/ssw/git/webqomo/app/server/views'
+let g:netrw_dirhist_4='/home/ssw/git/webqomo/app/public'
+let g:netrw_dirhist_5='/home/ssw/mygit/test/views'
+let g:netrw_dirhist_6='/home/ssw/mygit/test/public/stylesheets'
+let g:netrw_dirhist_7='/home/ssw/git/hippo/examples/installer'
